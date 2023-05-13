@@ -1,0 +1,7 @@
+# put your configuration values here
+weaviate_cluster_uri="https://linkedin-network-cluster-cv5ov0il.weaviate.network"
+
+[runtime]
+log_level="WARNING"  # the system log level of dlt
+# use the dlthub_telemetry setting to enable/disable anonymous usage data reporting, see https://dlthub.com/docs/telemetry
+dlthub_telemetry = true
