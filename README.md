@@ -1,10 +1,10 @@
-# DLT Pipeline from Weaviate to DuckDB
+# DLT Pipeline from Weaviate to DuckDB with Streamlit App
 
 Source:
 A Weaviate cluster with company meta data.
 
 Target:
-A streamlit app, in which we want to see startups listed by sector. 
+A streamlit app, in which we want to see startups listed by sector. Database: DuckDB.
 
 
 ## Prerequisits: Weaviate Cluster
