@@ -4,7 +4,7 @@ Source:
 A Weaviate cluster with company meta data.
 
 Target:
-In a streamlit app, we want to see startups listed by sector. 
+A streamlit app, in which we want to see startups listed by sector. 
 
 
 ## Prerequisits: Weaviate Cluster
