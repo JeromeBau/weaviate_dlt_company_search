@@ -1,5 +1,4 @@
 # DLT Pipeline from Weaviate to DuckDB
-A DltHub Pipeline that uses a weaviate database as source. 
 
 Source:
 A Weaviate cluster with company meta data.
